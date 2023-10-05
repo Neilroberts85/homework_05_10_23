@@ -4,7 +4,7 @@ import ChartsContainer from './containers/ChartsContainer';
 const App = () => {
   return(
     <>
-      <h1>im a shitty app</h1>
+      <h1>Charts</h1>
       <ChartsContainer/>
     </>
 )}
